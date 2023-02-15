@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abirahamlincoln" alt="abirahamlincoln" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/abirahamlincoln" target="blank"><img src="https://img.shields.io/twitter/follow/abirahamlincoln?logo=twitter&style=for-the-badge" alt="abirahamlincoln" /></a> </p>
+<p align="center"> <a href="https://twitter.com/abirahamlincoln" target="blank"><img src="https://img.shields.io/twitter/follow/abirahamlincoln?logo=linkedin&style=for-the-badge" alt="abirahamlincoln" /></a> </p>
 <img align="right" alt="Coding" width="330" src="https://abirahamlincoln.cpluz.com/assets/github.gif">
 - 🌱 I’m currently learning **Artificial Intelligence Technologies**
 
