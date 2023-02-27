@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AbirahamLincoln/abirahamlincoln.github.io/blob/main/LINKEDIN%20BCK%20PHOTO.png)](abirahamlincoln.github.io)
+[![MasterHead](https://github.com/AbirahamLincoln/abirahamlincoln/blob/main/Abirham%20Lincoln.png)](abirahamlincoln.github.io)
 <h1 align="center">Hi 👋, I'm Abiraham Lincoln</h1>
 <h3 align="center">Aspiring Artificial Intelligence & Data Science Engineer | Machine Learning and Neural Networks | Learning with Python and Embedded Systems</h3>
 
