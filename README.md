@@ -13,6 +13,13 @@
 
 - 📫 How to reach me <b>abirahamlincoln@gmail.com</b>
 
+-💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
+- 👨‍💻 All of my projects are available at [abiraham.me](https://abiraham.me/#/)
+
+-⚡ Fun fact: I love to contribute open source project.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +30,6 @@
  <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abirahamlincoln" alt="abirahamlincoln" /></a> </p>
      <a href="">
       <img align="center" src="https://github-readme-stats-nine-sand.vercel.app/api?username=abirahamlincoln&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
