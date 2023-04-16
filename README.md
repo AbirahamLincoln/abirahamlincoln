@@ -1,5 +1,8 @@
 [![MasterHead](https://github.com/AbirahamLincoln/abirahamlincoln/blob/main/Abirham%20Lincoln.png)](abirahamlincoln.github.io)
 <h1 align="center">Hi 👋, I'm Abiraham Lincoln</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst;Data+Science+Student;Always+learning+new+things"></a>
+</p>
 <h3 align="center">Aspiring Artificial Intelligence & Data Science Engineer | Machine Learning and Neural Networks | Learning with Python and Embedded Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirahamlincoln&label=Profile%20views&color=0e75b6&style=flat" alt="abirahamlincoln" /> </p>
@@ -41,3 +44,10 @@
 </div
 
 <br/>
+ 
+ 
+ ## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
