@@ -48,4 +48,4 @@
  
  ## 🐍 A Snake Eating my Contributions Graph
 	
-![snake gif](https://github.com/abirahamlincoln/abirahamlincoln/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AbirahamLincoln/abirahamlincoln/blob/output/github-contribution-grid-snake.svg)
